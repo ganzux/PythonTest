@@ -1,0 +1,11 @@
+A,B,C,CREATEDDATE,D,E,F,G,STARTDATE,ENDDATE,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,AB,AC,AD,AE
+76480000,Unknown,152568,11-Apr-16,7168000,Unknown,12-Nov-15,08-Apr-16,08-Apr-16,04-Nov-16,XX,M,Closed, Claimant,28-Nov-92,,83.2,,47-2061.00,,,5120000,Unknown,4640002,Unknown,,,,,,,,,
+76480000,Unknown,164700,26-May-16,7168000,Unknown,25-Feb-16,24-May-16,24-May-16,04-Nov-16,XX,M,Closed, Claimant,01-Sep-65,,82,  ,,,,5120000,Unknown,4640002,Unknown,Fracture right ankle ,,,79392000,Unknown,0,0,79296000,Unknown
+76480000,Unknown,148791,22-Feb-16,7168000,Unknown,20-Dec-15,18-Feb-16,18-Feb-16,04-Nov-16,XX,M,Closed, Claimant,23-Dec-93,,60.1,,47-2021.00,01-Sep-15,20-Dec-15,5120000,Unknown,4640002,Unknown,,,,,,,,,
+76480000,Unknown,148803,20-Apr-16,7168000,Unknown,04-Feb-16,19-Apr-16,19-Apr-16,04-Nov-16,XX,M,Closed, Claimant,02-Aug-79,,35,  ,51-8013.00,,,5120000,Unknown,4640002,Unknown,,,,,,,,,
+76480000,Unknown,149346,01-Mar-16,7168000,Unknown,05-Feb-15,28-Feb-16,28-Feb-16,04-Nov-16,XX,M,Closed, Claimant,15-Mar-80,,51.2,,47-2061.00,,,5120005,Very Heavy,4640002,Unknown,,,,,,,,,
+76480000,Unknown,149802,18-Apr-16,7168000,Unknown,14-Mar-16,15-Apr-16,15-Apr-16,04-Nov-16,XX,M,Closed, Claimant,03-May-90,,62.1,,53-3032.00,,,5120003,Medium,4640002,Unknown,,,,,,,,,
+76480000,Unknown,149842,08-Apr-16,7168000,Unknown,21-Mar-16,07-Apr-16,07-Apr-16,04-Nov-16,XX,M,Closed, Claimant,05-Jul-73,,26.9,,11-3011.00,,,5120001,Sedentary,4640002,Unknown,,,,,,,,,
+76480000,Unknown,150373,24-May-16,7168000,Unknown,14-Apr-16,23-May-16,23-May-16,04-Nov-16,XX,M,Oppened,Claimant,02-Mar-63,,01.0,,,,,5120000,Unknown,4640002,Unknown,,,,,,,,,
+76480000,Unknown,150374,24-May-16,7168000,Unknown,14-Apr-16,23-May-16,23-May-16,04-Nov-16,XX,M,Closed, Claimant,02-Mar-63,,01.0,,,,,5120000,Unknown,4640002,Unknown,,,,,,,,,
+76480000,Unknown,151230,20-Apr-16,7168000,Unknown,23-Jan-16,18-Apr-16,18-Apr-16,04-Nov-16,XX,M,Closed, Claimant,24-Mar-74,,62.0,,47-2011.00,,,5120004,Heavy,4640002,Unknown,,,,,,,,,
